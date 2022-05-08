@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c582805efc942db4aab17215c2ac9c70, type: 3}
+  m_Name: Moeda
+  m_EditorClassIdentifier: 
+  NomeObjeto: Moeda
+  sprite: {fileID: 3906112111664580409, guid: 7338261aa219a5d4b89a695f197711da, type: 3}
+  quantidade: 1
+  empilhavel: 1
+  tipoItem: 0
