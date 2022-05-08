@@ -1,2 +1,2 @@
-# JogoDeForca
-Projeto de criação de um Jogo de Forca
+# JogoDeRPG
+Projeto de criação de um Jogo de RPG
